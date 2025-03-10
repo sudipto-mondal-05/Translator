@@ -1,0 +1,19 @@
+python -m ensurepip --default-pip
+
+pip install flask
+
+pip install googletrans==4.0.0-rc1 gtts flask
+
+pip install flask googletrans==4.0.0-rc1 gtts
+
+pip install deep_translator
+
+pip install SpeechRecognition pyaudio
+
+pip install pymupdf python-docx
+
+pip install pipwin
+
+pipwin install pyaudio
+
+pip install flask deep-translator gtts SpeechRecognition pyaudio
